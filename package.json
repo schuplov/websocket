@@ -1,0 +1,20 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "Backend for Prank Revo",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "tg @schuploff",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "http": "^0.0.1-security",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.21.0",
+    "socket-io": "^1.0.0",
+    "socket.io": "^4.5.1"
+  }
+}
